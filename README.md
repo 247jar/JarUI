@@ -14,10 +14,10 @@ this will result in creating a install folder structure like
 
 
 # ***-- 1. -- UI manipulation through local files***
-- 1.1 FONTS
+### - 1.1 FONTS
 TODO: share the default font replacements - note: I use Expressway
 
-- 1.2 INTERFACE folder
+### - 1.2 INTERFACE folder
 
 
 texture replacement packs (BIG topic, lots of work here)
@@ -26,7 +26,7 @@ texture replacement packs (BIG topic, lots of work here)
 - icon replacement packs for 1px border squared icons everywhere https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition
 
 
-- 1.3 chat tabs / channels +++ Edit Mode scaling (maybe mention my UI Scale WA) note: start referring to JarUI
+### - 1.3 chat tabs / channels +++ Edit Mode scaling (maybe mention my UI Scale WA) note: start referring to JarUI
 https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 
 
@@ -34,7 +34,7 @@ https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 ***-- 2. -- managing addons***
 
 
-- 2.1 -- ***ElvUI wago.io collection***: https://wago.io/lw05cBLC4
+### - 2.1 -- ***ElvUI wago.io collection***: https://wago.io/lw05cBLC4
 
 
 ----
@@ -105,12 +105,12 @@ https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 
 
 
-## - 2.2 -- ***share WowUp.io CF string***
+### - 2.2 -- ***share WowUp.io CF string***
 https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
 
 
 
-## - 2.3 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
+### - 2.3 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
 
 share each individual addon profile....
 
@@ -120,7 +120,7 @@ share each individual addon profile....
 
 # ***-- 3. -- getting & sharing ui***
 - https://wago.io/ biggest platform to share String / text based profiles for most popular addons (WeakAuras, Plater, ElvUI, Blizzard Edit Mode)
-3.1 -- make selection of recommended imports
+### - 3.1 -- make selection of recommended imports
 
 
 https://wago.io/sTjueyP4U
@@ -130,7 +130,7 @@ https://wago.io/jNjrKl3US
 https://wago.io/p/Causese
 https://wago.io/pogAL95VQ
 https://wago.io/n7l5uN3YM
-https://wago.io/NaowhUI-ClassWA
+https://wago.io/NaowhUI-ClassWA # ***TODO: explain import process for Naowh dependency***
 https://wago.io/z-SB3ciWq/ TODO: update for season 2?
 https://wago.io/RaidAbilityTimeline
 https://wago.io/TamasDragonflightHelper
