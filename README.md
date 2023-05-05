@@ -30,8 +30,9 @@ texture replacement packs (BIG topic, lots of work here)
 https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 
 
-
-***-- 2. -- managing ALL addons***
+----
+# ***-- 2. -- managing ALL addons***
+----
 
 
 ### - 2.1 ***I recommend WowUp.io with CurseForge to keep all addons updated with just 1 click - yes, including ElvUI: ``https://wowup.io/``***
@@ -47,7 +48,7 @@ https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
 - `Angry Keystones` (TODO: why do I use this one?)
 - `Astral Keys` (TODO: why do I use this one?)
 - `BetterCharacterPanel` (for character panel: to display Item Level *and* Enchant, Socket info per equipped item *and* on Inspect frame too!)
-- ``BigWigs Bossmods`` (the boss timer addon with the fastest updates) + ``BigWigs_Voice`` + ``LittleWigs``
+- ``BigWigs Bossmods`` (the boss timer addon with the fastest updates) + ``BigWigs_Voice`` + ``LittleWigs`` (***TODO: SHARE PROFILES***)
 - `BlizzMove` (to actually be allowed to move ***all Blizzard panels***, *yes even the Exit Game menu*)
 - `BtWQuests` (TODO: maybe if u wanna complete all the questlines)
 - `BugGrabber` and `BugSack` (as LUA debug tools for all WoW addons)
@@ -88,7 +89,7 @@ https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
 
 
 ----
-# ***-- 3. -- getting & sharing ui*** 
+# ***-- 3. -- getting & sharing UI's*** 
 
 - https://wago.io/ biggest platform to share String / text based profiles for most popular addons (WeakAuras, Plater, ElvUI, Blizzard Edit Mode)
 
@@ -97,9 +98,11 @@ https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
 
 ### - 3.1 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
 
-share each individual addon profile.... THAT CANNOT BE SHARED THROUGH https://wago.io 
+share each individual addon profile.... THAT CANNOT BE SHARED THROUGH https://wago.io ON ***https://github.com/247jar/JarUI***
 
-- https://github.com/247jar/JarUI
+- ``Edit Mode`` (Blizzard Default UI) - https://wago.io/36N3iSP-P
+
+
 
 
 ### - 3.2 -- make selection of recommended WeakAuras
@@ -155,9 +158,6 @@ TODO collect all of them
 explain subbing to their https://www.twitch.tv/ or patreon as a way to monetize WoW UI development
 
 
-# ***-- 5. -- JarUI now lives on https://github.com/247jar/JarUI AND https://wago.io/p/Jar***
-
-
-
+# ***-- 5. -- JarUI now lives on https://github.com/247jar/JarUI AND https://wago.io/p/Jar (ElvUI, WeakAuras, Plater, Edit Mode, OPie***
 
 
