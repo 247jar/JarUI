@@ -124,7 +124,7 @@ share each individual addon profile.... THAT CANNOT BE SHARED THROUGH https://wa
 
 
 
-### 3.2 Recommended WeakAuras
+### - 3.2 -- ***Recommended WeakAuras***
 - ``WeakAuras`` (THE framework to add UI work shared on https://wago.io ) 
 
 https://wago.io/sTjueyP4U
