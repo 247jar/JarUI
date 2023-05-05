@@ -105,12 +105,12 @@ https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 
 
 
-- 2.2 -- ***share WowUp.io CF string***
+## - 2.2 -- ***share WowUp.io CF string***
 https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
 
 
 
-- 2.3 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
+## - 2.3 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
 
 share each individual addon profile....
 
