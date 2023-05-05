@@ -27,7 +27,7 @@ texture replacement packs (BIG topic, lots of work here)
 
 
 ### - 1.3 chat tabs / channels +++ Edit Mode scaling (maybe mention my UI Scale WA) note: start referring to JarUI
-https://github.com/247jar/JarUI/blob/main/chat-cache.txt
+-- TODO: FOR every character go to ```WTF\Account\%ACCOUNT_ID%\SavedVariables``` and PASTE INSIDE THE FILE, DO NOT REPLACE EXISTING FILE BECAUE OF HASHING from: https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 
 
 ----
@@ -37,43 +37,61 @@ https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 
 ### - 2.1 ***I recommend WowUp.io with CurseForge to keep all addons updated with just 1 click - yes, including ElvUI: ``https://wowup.io/``***
 
-https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
+-- inside WowUp.io app, look at top right hand corner, next to "Check Updates", click on the vertical menu dots and import this String: https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
 
 
 
 ### - 2.2 ALL the addons that I currently use and are well maintained in Dragonflight:
 
 - `AdiBags` (is my bag addon of choice because ***C A T E G O R I E S***)
+-- Position & size: Scale 90%, Max bag height 42%
 - `AdvancedInterfaceOptions` (offers a nice ingame CVAR browser + lowlevel interface options)
-- `Angry Keystones` (TODO: why do I use this one?)
-- `Astral Keys` (TODO: why do I use this one?)
+-- ComeraDistanceMaxZoomFactor 2.6
+- `Angry Keystones` (for displaying weekly affix schedule in the M+ panel)
 - `BetterCharacterPanel` (for character panel: to display Item Level *and* Enchant, Socket info per equipped item *and* on Inspect frame too!)
+-- TODO: not sure if I made adjustments or in `DejaCharacterStats` !!
 - ``BigWigs Bossmods`` (the boss timer addon with the fastest updates) + ``BigWigs_Voice`` + ``LittleWigs`` (***TODO: SHARE PROFILES***)
+-- download https://github.com/247jar/JarUI/blob/main/BigWigs.lua into ```WTF\Account\%ACCOUNT_ID%\SavedVariables```
+-- TODO BEFORE RESET: test out making a new BigWigs profile on different Account.... to make sure we got ALL of the settings!!!!!!!!!
 - `BlizzMove` (to actually be allowed to move ***all Blizzard panels***, *yes even the Exit Game menu*)
+-- Global Config: 2x Remember permanently
 - `BtWQuests` (TODO: maybe if u wanna complete all the questlines)
 - `BugGrabber` and `BugSack` (as LUA debug tools for all WoW addons)
 - `Can I Mog It?` (to keep track of transmogs)
 - `DejaCharacterStats` (for character panel: to see Equipped Item Level / Max Item Level for LFG)
+-- download https://github.com/247jar/JarUI/blob/main/DejaCharacterStats.lua into ```WTF\Account\%ACCOUNT_ID%\SavedVariables```
 - `Details! Damage Meter` (***TODO: SHARE PROFILE***)
+-- 1. ingame in Details! "Options", go to "Profiles" and "Import Profile" by pasting this String: https://github.com/247jar/JarUI/blob/main/Details_profile.txt 
+-- 2. ON EVERY CHARACTER SWAP TO JarUI profile within Details!'s profile select
 - `Echo Raid Tools` (adds a icon for guild Echo's WeakAuras to import ingame in the adventure guide)
-- `ElvUI` (***PROFILE: https://wago.io/lw05cBLC4***)
+- `ElvUI` (THE complete UI overhaul, well-maintained, huge community, tons of profiles to test out on https://wago.io/)
+-- for JarUI import ALL profiles from this collection: https://wago.io/lw05cBLC4
 - `FPS-MS-Tracker` (to display a tiny, *class-colored* fps and ms counter on the bottom left-hand corner)
 - `LS: Glass` (to have ***nice*** chat message animations and tab glow)
 - ``Method Raid Tools`` (for raid CD tracking ***TODO: SHARE PROFILE***)
-- ``Mythic Dungeon Tools`` (to edit, import & share M+ dungeon routes ***TODO: EXPLAIN M+ LIFE - keystone.guru, raider.io, getting MDT strings from streamers, big pushers.... all that fun***)
+-- ingame in Method Raid Tools got to "Profiles" and "Import profile" by pasting this String: https://github.com/247jar/JarUI/blob/main/Method_Raid_Tools.txt
+- ``Mythic Dungeon Tools`` (to edit, import & share M+ dungeon routes ***TODO: EXPLAIN M+ LIFE - keystone.guru, raider.io weekly route, getting MDT strings from streamers, big pushers.... all that fun***)
 - `Narcissus` (to have a very modern, gorgeous character display)
 - `OPie` (for a selection ring around your mouse cursor)
+-- set up Alt-Q for Target Markers ++ and Alt-E for World Markers
 - `OmniCD - Party Cooldown Tracker` (for party cooldown + interrupts tracking -- ***TODO: SHARE PROFILE***)
+-- download https://github.com/247jar/JarUI/blob/main/OmniCD.lua into ```WTF\Account\%ACCOUNT_ID%\SavedVariables```
 - `Outfitter (Equipment Manager - Nulian's Fixed)` (the new Dragonflight version - to click on equipped item and immediately see replacement options inside character panel!)
+-- ingame open up the charactger panel, on the top right hand corner click on the gray cloth chest icon (this open Outfitter settings) - go to bottom tab "Options" - and untick all of the 4 default ticks.
 - `Paragon Reputation` (for old Legion reputation paragon chests)
 - `Pawn` (simplistic item upgrade hints in the tooltip)
 - `Plater Nameplates` (THE addon for WoW nameplates. ***EXPLAIN: go to wago.io to import Plater profiles - mention Jundies, Naowh Twitch sub, etc.***)
+-- I use Jundies' well-maintained and free profile: https://wago.io/ak3iS95aa
+-- for every character swap to the desirec profile in the settings.
 - `Prat 3.0` (to modify chat text)
+-- go to "/prat" > tab "Chat Formatting" > select "Timestamps" and use the HH:MM (24-hour) formatting
 - `Premade Groups Filter` (to have more functionality in filtering through the LFG queue)
 - `Project Azilroka` (***only use Enhanced Friends List***... disable all other modules!)
+-- go to ElvUI settings with "/ec" > bottom tab "ProjectAzilroka": DISABLE every module, except Enhanced Friends List
 - `RCLootCouncil` (to ingame manage loot distribution... ***maybeeee explain Droptimizer, WoWaudit, blekfjbnsejikf bnsikjf nsuikdf b***)
 - `Raider.IO` (to display https://raider.io/ scores, past keys in tooltip in LFG)
 - `RareScanner` (to get alerts of rares and more map options like more map icons, dungeon/raid entrances)
+-- in order to get some quiet from rare alerts, just go to AddOns> RareScanner > Zone filtesr > and just "Toggle filters" for Dragon Isles - so when you're chilling in Valdrakken, there won't be alerts. You can re-Toggle filters, or just actually join a rare farm group for that purpose. Who even needs those alerts max-lvl?
 - `SavedInstances` (to get an overview list of all relevant alts with their info, like lockout, weeklies, M+ keys etc.)
 - `SharedMedia` (offers a framework to share addon resources, like textures, sounds, etc.)
 - `SharedMedia_Causese` (most https://wago.io imports rely on this SharedMedia by Causese for alerts etc.)
@@ -84,7 +102,9 @@ https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
 - `TeleportCloak` (reliably & automatically re-equipps previous cloak after using any Teleport Cloak in the game)
 - `TomTom` (THE addon for questing, offers an arrow, coordinates, /-commands)
 - `WarpDeplete` (THE most complete Mythic+ dungeon timer)
+-- download https://github.com/247jar/JarUI/blob/main/WarpDeplete.lua into ```WTF\Account\%ACCOUNT_ID%\SavedVariables``` to get the Default profile
 - ``WeakAuras`` (THE framework to add UI work shared on https://wago.io )
+-- See [My List of recommended WeakAuras shared through wago.io](### - 3.2 --)
 - `World Quests List` (THE best world quest addon, displays listing of ALL available WQs next to the world map)
 
 
