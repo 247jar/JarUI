@@ -31,33 +31,16 @@ https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 
 
 
-***-- 2. -- managing addons***
+***-- 2. -- managing ALL addons***
 
 
-### - 2.1 -- ***ElvUI wago.io collection***: https://wago.io/lw05cBLC4
+### - 2.1 ***I recommend WowUp.io with CurseForge to keep all addons updated with just 1 click - yes, including ElvUI: ``https://wowup.io/``***
+
+https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
 
 
-----
-# JarUI ElvUI approach:
-- save performance *and* reduce dependencies by disabling many ElvUI modules.
-- using ActionBars to mimic center WeakAura groups (because 1. ***snappiness of ElvUI actionbars*** and 2. rectangular icons and 3. bigger stack count text!) 
-- designed to be pixel-perfect compatible with ``https://wago.io/NaowhUI-ClassWA`` (using Group Scale 1.1)
-- ``https://wago.io/SJNeRkn47`` - ***must import ElvUI Private (Character Settings)*** for each character as well! (I have a lot of ElvUI modules disabled to get better performance, like default Blizzard UI skinning, map/minimap, chat, databars/texts, buffs/debuffs and more...)
 
-## Short list of ElvUI modules that are being used (no other plugins!):
-- General
-- ActionBars
-- Tooltip
-- Unitframes
-
-## To make this approach work, I instead use:
-- Icon texture replacements: ``https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition``
-- WoW login screen ***and*** ingame panel texture replacements: ``https://www.tukui.org/addons.php?id=202`` (Grey > Transparent)
-- Chat bubble minimalist reskin: ``https://www.tukui.org/forum/viewtopic.php?f=11&t=30&start=50`` (use *No border with low background for chat bubble*)
-
-## ***I recommend WowUp with CurseForge to keep all addons updated with just 1 click - yes, including ElvUI: ``https://wowup.io/``***
-
-### A few addons that are quite practical and well maintained in Dragonflight:
+### - 2.2 ALL the addons that I currently use and are well maintained in Dragonflight:
 
 - `AdiBags` (is my bag addon of choice because ***C A T E G O R I E S***)
 - `AdvancedInterfaceOptions` (offers a nice ingame CVAR browser + lowlevel interface options)
@@ -104,24 +87,23 @@ https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 - `World Quests List` (THE best world quest addon, displays listing of ALL available WQs next to the world map)
 
 
+----
+# ***-- 3. -- getting & sharing ui*** 
 
-### - 2.2 -- ***share WowUp.io CF string***
-https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
-
-
-
-### - 2.3 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
-
-share each individual addon profile....
-
-
-
-
-
-# ***-- 3. -- getting & sharing ui***
 - https://wago.io/ biggest platform to share String / text based profiles for most popular addons (WeakAuras, Plater, ElvUI, Blizzard Edit Mode)
-### - 3.1 -- make selection of recommended imports
 
+----
+
+
+### - 3.1 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
+
+share each individual addon profile.... THAT CANNOT BE SHARED THROUGH https://wago.io 
+
+- https://github.com/247jar/JarUI
+
+
+### - 3.2 -- make selection of recommended WeakAuras
+- ``WeakAuras`` (THE framework to add UI work shared on https://wago.io ) 
 
 https://wago.io/sTjueyP4U
 https://wago.io/v5bS71bMj
@@ -144,6 +126,29 @@ https://wago.io/Wa4_j1SIX
 
 
 
+### - 3.3 -- ***ElvUI wago.io collection***: https://wago.io/lw05cBLC4
+
+
+# JarUI ElvUI approach:
+- save performance *and* reduce dependencies by disabling many ElvUI modules.
+- using ActionBars to mimic center WeakAura groups (because 1. ***snappiness of ElvUI actionbars*** and 2. rectangular icons and 3. bigger stack count text!) 
+- designed to be pixel-perfect compatible with ``https://wago.io/NaowhUI-ClassWA`` (using Group Scale 1.1)
+- ``https://wago.io/SJNeRkn47`` - ***must import ElvUI Private (Character Settings)*** for each character as well! (I have a lot of ElvUI modules disabled to get better performance, like default Blizzard UI skinning, map/minimap, chat, databars/texts, buffs/debuffs and more...)
+
+## Short list of ElvUI modules that are being used (no other plugins!):
+- General
+- ActionBars
+- Tooltip
+- Unitframes
+
+## To make this approach work, I instead use:
+- Icon texture replacements: ``https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition``
+- WoW login screen ***and*** ingame panel texture replacements: ``https://www.tukui.org/addons.php?id=202`` (Grey > Transparent)
+- Chat bubble minimalist reskin: ``https://www.tukui.org/forum/viewtopic.php?f=11&t=30&start=50`` (use *No border with low background for chat bubble*)
+
+
+
+
 # ***-- 4. -- popular DISCORDS for WoW UI***
 naowh, atrocity, tukui, etc...........
 TODO collect all of them
@@ -151,3 +156,8 @@ explain subbing to their https://www.twitch.tv/ or patreon as a way to monetize 
 
 
 # ***-- 5. -- JarUI now lives on https://github.com/247jar/JarUI AND https://wago.io/p/Jar***
+
+
+
+
+
