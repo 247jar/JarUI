@@ -46,7 +46,7 @@ texture replacement packs (BIG topic, lots of work here)
 - `AdiBags` (is my bag addon of choice because ***C A T E G O R I E S***)
 -- Position & size: Scale 90%, Max bag height 42%
 - `AdvancedInterfaceOptions` (offers a nice ingame CVAR browser + lowlevel interface options)
--- ComeraDistanceMaxZoomFactor 2.6
+-- CameraDistanceMaxZoomFactor 2.6
 - `Angry Keystones` (for displaying weekly affix schedule in the M+ panel)
 - `BetterCharacterPanel` (for character panel: to display Item Level *and* Enchant, Socket info per equipped item *and* on Inspect frame too!)
 -- TODO: not sure if I made adjustments or in `DejaCharacterStats` !!
@@ -123,8 +123,6 @@ share each individual addon profile.... THAT CANNOT BE SHARED THROUGH https://wa
 - ``Edit Mode`` (Blizzard Default UI) - https://wago.io/36N3iSP-P
 
 
-
-### My Multi Word Header
 
 ### 3.2 Recommended WeakAuras
 - ``WeakAuras`` (THE framework to add UI work shared on https://wago.io ) 
