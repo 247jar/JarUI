@@ -58,32 +58,59 @@ https://github.com/247jar/JarUI/blob/main/chat-cache.txt
 ## ***I recommend WowUp with CurseForge to keep all addons updated with just 1 click - yes, including ElvUI: ``https://wowup.io/``***
 
 ### A few addons that are quite practical and well maintained in Dragonflight:
-- `BlizzMove` (to actually be allowed to move ***all Blizzard panels***, *yes even the Exit Game menu*)
-- `OPie` (for a selection ring around your mouse cursor)
-- `Talent Tree Tweaks` (and more by Numedain)
-- `Talent Loadout Ex` (to save many more talent tree Strings)
-- `DejaCharacterStats` (for character panel: to see Equipped Item Level / Max Item Level for LFG)
-- `BetterCharacterPanel` (for character panel: to display Item Level *and* Enchant, Socket info per equipped item *and* on Inspect frame too!)
-- `Outfitter` (the new Dragonflight version - to click on equipped item and immediately see replacement options inside character panel!)
-- `TeleportCloak` (reliably & automatically re-equipps previous cloak after using any Teleport Cloak in the game)
-- `Prat 3.0` (to modify chat text)
-- `LS: Glass` (to have ***nice*** chat message animations and tab glow)
-- `Project Azilroka` (***only use Enhanced Friends List***... disable all other modules!)
+
 - `AdiBags` (is my bag addon of choice because ***C A T E G O R I E S***)
-- `World Quests List` (the best world quest addon)
-- `FPS-MS-Tracker` (to display a tiny, *class-colored* fps and ms counter on the bottom left-hand corner)
+- `AdvancedInterfaceOptions` (offers a nice ingame CVAR browser + lowlevel interface options)
+- `Angry Keystones` (TODO: why do I use this one?)
+- `Astral Keys` (TODO: why do I use this one?)
+- `BetterCharacterPanel` (for character panel: to display Item Level *and* Enchant, Socket info per equipped item *and* on Inspect frame too!)
+- ``BigWigs Bossmods`` (the boss timer addon with the fastest updates) + ``BigWigs_Voice`` + ``LittleWigs``
+- `BlizzMove` (to actually be allowed to move ***all Blizzard panels***, *yes even the Exit Game menu*)
+- `BtWQuests` (TODO: maybe if u wanna complete all the questlines)
 - `BugGrabber` and `BugSack` (as LUA debug tools for all WoW addons)
-### ...and the popular ones...
-- `WarpDeplete` (the most complete Mythic+ dungeon timer)
-- `OmniCD` (for party cooldown + interrupts tracking)
-- ``Method Raid Tools`` (for raid CD tracking)
-- ``BigWigs`` (the boss timer addon with the fastest updates) + ``BigWigs_Voice`` + ``LittleWigs``
-- ``WeakAuras``
+- `Can I Mog It?` (to keep track of transmogs)
+- `DejaCharacterStats` (for character panel: to see Equipped Item Level / Max Item Level for LFG)
+- `Details! Damage Meter` (***TODO: SHARE PROFILE***)
+- `Echo Raid Tools` (adds a icon for guild Echo's WeakAuras to import ingame in the adventure guide)
+- `ElvUI` (***PROFILE: https://wago.io/lw05cBLC4***)
+- `FPS-MS-Tracker` (to display a tiny, *class-colored* fps and ms counter on the bottom left-hand corner)
+- `LS: Glass` (to have ***nice*** chat message animations and tab glow)
+- ``Method Raid Tools`` (for raid CD tracking ***TODO: SHARE PROFILE***)
+- ``Mythic Dungeon Tools`` (to edit, import & share M+ dungeon routes ***TODO: EXPLAIN M+ LIFE - keystone.guru, raider.io, getting MDT strings from streamers, big pushers.... all that fun***)
+- `Narcissus` (to have a very modern, gorgeous character display)
+- `OPie` (for a selection ring around your mouse cursor)
+- `OmniCD - Party Cooldown Tracker` (for party cooldown + interrupts tracking -- ***TODO: SHARE PROFILE***)
+- `Outfitter (Equipment Manager - Nulian's Fixed)` (the new Dragonflight version - to click on equipped item and immediately see replacement options inside character panel!)
+- `Paragon Reputation` (for old Legion reputation paragon chests)
+- `Pawn` (simplistic item upgrade hints in the tooltip)
+- `Plater Nameplates` (THE addon for WoW nameplates. ***EXPLAIN: go to wago.io to import Plater profiles - mention Jundies, Naowh Twitch sub, etc.***)
+- `Prat 3.0` (to modify chat text)
+- `Premade Groups Filter` (to have more functionality in filtering through the LFG queue)
+- `Project Azilroka` (***only use Enhanced Friends List***... disable all other modules!)
+- `RCLootCouncil` (to ingame manage loot distribution... ***maybeeee explain Droptimizer, WoWaudit, blekfjbnsejikf bnsikjf nsuikdf b***)
+- `Raider.IO` (to display https://raider.io/ scores, past keys in tooltip in LFG)
+- `RareScanner` (to get alerts of rares and more map options like more map icons, dungeon/raid entrances)
+- `SavedInstances` (to get an overview list of all relevant alts with their info, like lockout, weeklies, M+ keys etc.)
+- `SharedMedia` (offers a framework to share addon resources, like textures, sounds, etc.)
+- `SharedMedia_Causese` (most https://wago.io imports rely on this SharedMedia by Causese for alerts etc.)
+- `Simulationcraft` (to type "/simc" ingame for a quick character data sheet to paste into https://www.raidbots.com/simbot/droptimizer )
+- `Talent Loadout Ex` (to save many more talent tree Strings)
+- `Talent Tree Tweaks | Dragonflight` (to make the talents panel smaller, transparent etc. - and more by Numedain)
+- `Talent Tree Viewer (calculator) | Dragonflight` (to see other classes' talent trees, by Numedain)
+- `TeleportCloak` (reliably & automatically re-equipps previous cloak after using any Teleport Cloak in the game)
+- `TomTom` (THE addon for questing, offers an arrow, coordinates, /-commands)
+- `WarpDeplete` (THE most complete Mythic+ dungeon timer)
+- ``WeakAuras`` (THE framework to add UI work shared on https://wago.io )
+- `World Quests List` (THE best world quest addon, displays listing of ALL available WQs next to the world map)
 
-1. adi
 
 
-- 2.2 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
+- 2.2 -- ***share WowUp.io CF string***
+https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
+
+
+
+- 2.3 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
 
 share each individual addon profile....
 
