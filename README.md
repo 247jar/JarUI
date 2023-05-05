@@ -104,7 +104,7 @@ texture replacement packs (BIG topic, lots of work here)
 - `WarpDeplete` (THE most complete Mythic+ dungeon timer)
 -- download https://github.com/247jar/JarUI/blob/main/WarpDeplete.lua into ```WTF\Account\%ACCOUNT_ID%\SavedVariables``` to get the Default profile
 - ``WeakAuras`` (THE framework to add UI work shared on https://wago.io )
--- See [section about Recommended WeakAuras](#32-recommended-weakauras)
+-- See [section about Recommended WeakAuras](#--32----recommended-weakauras)
 - `World Quests List` (THE best world quest addon, displays listing of ALL available WQs next to the world map)
 
 
