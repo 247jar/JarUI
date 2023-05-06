@@ -6,7 +6,8 @@
 - [***-- 2. -- Managing ALL addons & simple update process***](#---2----managing-all-addons--simple-update-process)
 - [***-- 3. -- Getting & sharing addon profiles***](#---3----getting--sharing-addon-profiles)
 - [***-- 4. -- Popular Discords for fancy WoW UIs***](#---4----popular-discords-for-fancy-wow-uis)
-- [***-- 5. -- More about Jar***](#---5----more-about-jar)
+- [***-- 5. -- External software***](#---5----external-software)
+- [***-- 6. -- More about Jar***](#---6----more-about-jar)
 
 
 # ***-- 0. -- The WoW install process***
@@ -188,7 +189,19 @@ TODO collect all of them
 explain subbing to their https://www.twitch.tv/ or patreon as a way to monetize WoW UI development
 
 
-# ***-- 5. -- More about Jar***
+
+# ***-- 5. -- External software***
+
+### - 5.1 -- ***Warcraft Logs Uploader***
+- https://www.warcraftlogs.com/client/download
+- enable auto combat logging in BigWigs BossTimer - in Pull section
+--> NEEDS A BIGWIGS PULLTIMER!!! NOT A DBM OR DEFAULT BLIZZARD PULL TIMER!!! "/pull 15" with BigWigs!!!
+
+
+### - 5.2 -- 
+
+
+# ***-- 6. -- More about Jar***
 
 - JarUI now lives on https://github.com/247jar/JarUI AND https://wago.io/p/Jar (ElvUI, WeakAuras, Plater, Edit Mode, OPie***
 
