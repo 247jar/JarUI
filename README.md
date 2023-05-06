@@ -12,17 +12,35 @@
 
 # ***-- 0. -- The WoW install process***
 
+### - 0.0 -- IMPORTANT WoW UI BACKUP!
+DISCLAIMER: If you already have customizations inside WoW, these are the folders you need to backup: 
+- ``D:\Battlenet\World of Warcraft\_retail_\Fonts`` -- global font replacements live here
+- ``D:\Battlenet\World of Warcraft\_retail_\Interface`` -- ALL the WoW Interface data resources live here, e.g. addon installs, extra media, AND these texture replacements (icons, panels, etc.)
+- ``D:\Battlenet\World of Warcraft\_retail_\Screenshots`` -- all YOUR screenshots you have taken over the years!!! These do NOT get cloud-backup through Blizzard!!!
+- ``D:\Battlenet\World of Warcraft\_retail_\WTF`` -- HERE is where all your customizations live. ALL the config files for ALL the addons AND account data...
+
+
 ### - 0.1 -- WoW installation
 
-to start off WoW install: 
-go to: https://www.blizzard.com/en-us/apps/battle.net/desktop
-
-within bnet install WoW Retail
-this will result in creating a install folder structure like
+To start off the WoW install, go to: https://www.blizzard.com/en-us/apps/battle.net/desktop
+Within Battle.net install World of Warcraft. This will result in creating an install folder structure like 
+- ``D:\Battlenet\World of Warcraft``
+- The most recent WoW expansion Dragonflight is called the "Retail" version of the game - ther are older versions, like WoW Classic or Wrath Classic for past expansions.
+- So for Dragonflight, the WoW install folder lives in: ``D:\Battlenet\World of Warcraft\_retail_``
+- Within Battle.net, click on "Play" having "World of Warcraft" selected. 
 
 
 ### - 0.2 -- Ingame default menu options (interface settings, graphics settings, etc.)
---- - ingame default menu options -> will live on a video. maybe youtube. maybe a twitch clip. (interface settings, graphics settings, Advanced Combat Logging enabled!)
+At character select, we can already make first customizations - go to bottom-left Menu > System: 
+- Audio: Master Volume 10%, Music+Effects+Dialog 20%, Ambience 0%. Everything ticked, except Error Speech!
+- Graphics: Vertical Sync: Disabled, Low Latency Mode: Built-in, 
+-- Graphics Quality: Base: Shadow Quality: Fair, Liquid: Good, Particle Density: Fair, rest use High, Spell Density: Most, Projected Textures: Enabled!, View Distance + Environment Detail + Ground Clutter: 7, 
+-- Graphics Quality: Tick Raid Graphics Quality: Shadow Quality: Fair, Liquid: Good, Particle Density: Fair, SSAO: Disabled, Depth Effects: Disabled, Compute Effects: Disabled, Spell Density: Most, Projected Textures: Enabled!, View Distance: 7, Environment Detail + Ground Clutter: 1, 
+- Graphics, Advanced: Triple Buffering: Untick, Texture Filtering: 8x, Ray Traced Shadows: Disabled, VRS Mode: Stamdard, Target FPS: Untick, Gamma: 1.2
+- Network: Advanced Combat Logging: Tick / Enable!
+
+
+--- ingame default menu options -> will live on a video. maybe youtube. maybe a twitch clip. (interface settings, graphics settings, Advanced Combat Logging enabled!)
 - TODO: but lives at https://www.twitch.tv/videos/1812917539?t=1h19m20s
 
 
