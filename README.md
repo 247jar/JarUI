@@ -1,11 +1,16 @@
-2023-05-05 wow ui fresh install video + maintenance tips
+***This is [Jar](https://www.twitch.tv/tvJar)'s World of Warcraft User Interface repository.***
 
+***Here, I provide EVERY SINGLE STEP that is needed from a fresh WoW install to having your whole UI set-up to a state that allows for heading over to actual gameplay. The main purpose is to enable EVERYONE to learn about most crucial aspect about WoW UI, including:***
+- [# 0 - The WoW installation process](#---0---)
+- 
 
-----
 ***prepping a wow ui video in order to have a set process to set everything up on a new machine / new installation / for moving distros / other people to manage their whole ui instead of just pushing a WTF folder***
 
 
-# ***-- 0. --***
+# ***-- 0. -- The WoW installation process***
+
+###
+
 to start off WoW install: 
 go to: https://www.blizzard.com/en-us/apps/battle.net/desktop
 
@@ -67,6 +72,8 @@ texture replacement packs (BIG topic, lots of work here)
 - `ElvUI` (THE complete UI overhaul, well-maintained, huge community, tons of profiles to test out on https://wago.io/)
 -- for JarUI import ALL profiles from this collection: https://wago.io/lw05cBLC4
 - `FPS-MS-Tracker` (to display a tiny, *class-colored* fps and ms counter on the bottom left-hand corner)
+- `HandyNotes` (adds icons to the map, can be expanded through lots of plugins / other HandyNotes - Addons)
+-- **uses character specific settings by default !!! careful about committing to profile changes**
 - `LS: Glass` (to have ***nice*** chat message animations and tab glow)
 - ``Method Raid Tools`` (for raid CD tracking ***TODO: SHARE PROFILE***)
 -- ingame in Method Raid Tools got to "Profiles" and "Import profile" by pasting this String: https://github.com/247jar/JarUI/blob/main/Method_Raid_Tools.txt
@@ -97,7 +104,9 @@ texture replacement packs (BIG topic, lots of work here)
 - `SharedMedia_Causese` (most https://wago.io imports rely on this SharedMedia by Causese for alerts etc.)
 - `Simulationcraft` (to type "/simc" ingame for a quick character data sheet to paste into https://www.raidbots.com/simbot/droptimizer )
 - `Talent Loadout Ex` (to save many more talent tree Strings)
+-- download https://github.com/247jar/JarUI/blob/main/TalentLoadoutsEx.lua into ```WTF\Account\%ACCOUNT_ID%\SavedVariables```
 - `Talent Tree Tweaks | Dragonflight` (to make the talents panel smaller, transparent etc. - and more by Numedain)
+-- download https://github.com/247jar/JarUI/blob/main/TalentTreeTweaks.lua into ```WTF\Account\%ACCOUNT_ID%\SavedVariables```
 - `Talent Tree Viewer (calculator) | Dragonflight` (to see other classes' talent trees, by Numedain)
 - `TeleportCloak` (reliably & automatically re-equipps previous cloak after using any Teleport Cloak in the game)
 - `TomTom` (THE addon for questing, offers an arrow, coordinates, /-commands)
