@@ -203,24 +203,24 @@ share each individual addon profile.... THAT CANNOT BE SHARED THROUGH https://wa
 ### - 3.2 -- ***Recommended WeakAuras***
 - ``WeakAuras`` (THE framework to add UI work shared on https://wago.io ) 
 
-https://wago.io/sTjueyP4U
-https://wago.io/v5bS71bMj
-https://wago.io/dmui-dragonriding
-https://wago.io/jNjrKl3US
-https://wago.io/p/Causese
-https://wago.io/pogAL95VQ
-https://wago.io/n7l5uN3YM
-https://wago.io/NaowhUI-ClassWA # ***TODO: explain import process for Naowh dependency***
-https://wago.io/z-SB3ciWq/ TODO: update for season 2?
-https://wago.io/RaidAbilityTimeline
-https://wago.io/TamasDragonflightHelper
-https://wago.io/dfdungeons
-https://wago.io/KrId6eJY6
-https://wago.io/interruptorderNEW
-https://wago.io/XEtM8dg1b
-https://wago.io/ltENrybhU
-https://wago.io/8Kge4dx6U TODO: find new CR BL tracker // + healer mana?
-https://wago.io/Wa4_j1SIX
+- https://wago.io/sTjueyP4U
+- https://wago.io/v5bS71bMj
+- https://wago.io/dmui-dragonriding
+- https://wago.io/jNjrKl3US
+- https://wago.io/p/Causese
+- https://wago.io/pogAL95VQ
+- https://wago.io/n7l5uN3YM
+- https://wago.io/NaowhUI-ClassWA # ***TODO: explain import process for Naowh dependency***
+- https://wago.io/z-SB3ciWq/ TODO: update for season 2?
+- https://wago.io/RaidAbilityTimeline
+- https://wago.io/TamasDragonflightHelper
+- https://wago.io/dfdungeons
+- https://wago.io/KrId6eJY6
+- https://wago.io/interruptorderNEW
+- https://wago.io/XEtM8dg1b
+- https://wago.io/ltENrybhU
+- https://wago.io/8Kge4dx6U TODO: find new CR BL tracker // + healer mana?
+- https://wago.io/Wa4_j1SIX
 
 
 ### - 3.3 -- ***ElvUI wago.io collection***: https://wago.io/lw05cBLC4
