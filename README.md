@@ -11,7 +11,7 @@
 ***prepping a wow ui video in order to have a set process to set everything up on a new machine / new installation / for moving distros / other people to manage their whole ui instead of just pushing a WTF folder***
 
 
-# ***-- 0. -- The WoW installation process***
+# ***-- 0. -- The WoW install process***
 
 ###
 
@@ -26,7 +26,7 @@ this will result in creating a install folder structure like
 ### - 1.1 FONTS
 TODO: share the default font replacements - note: I use Expressway
 
-### - 1.2 INTERFACE folder
+### - 1.2 INTERFACE folder - VERY PERFORMANT because it's only texture replacements!
 
 
 texture replacement packs (BIG topic, lots of work here)
@@ -40,7 +40,7 @@ texture replacement packs (BIG topic, lots of work here)
 
 
 ----
-# ***-- 2. -- managing ALL addons***
+# ***-- 2. -- Managing ALL addons & simple update process***
 ----
 
 
@@ -122,14 +122,14 @@ texture replacement packs (BIG topic, lots of work here)
 
 
 ----
-# ***-- 3. -- getting & sharing UI's*** 
+# ***-- 3. -- Getting & sharing addon profiles*** 
 
 - https://wago.io/ biggest platform to share String / text based profiles for most popular addons (WeakAuras, Plater, ElvUI, Blizzard Edit Mode)
 
 ----
 
 
-### - 3.1 -- ***all the AddOn profiles*** TODO: complete list of addons and share their profiles on github
+### - 3.1 -- ***all the addon profiles*** TODO: complete list of addons and share their profiles on github
 
 share each individual addon profile.... THAT CANNOT BE SHARED THROUGH https://wago.io ON ***https://github.com/247jar/JarUI***
 
@@ -184,13 +184,13 @@ https://wago.io/Wa4_j1SIX
 
 
 
-# ***-- 4. -- popular DISCORDS for WoW UI***
+# ***-- 4. -- popular Disords for fancy WoW UIs***
 naowh, atrocity, tukui, etc...........
 TODO collect all of them
 explain subbing to their https://www.twitch.tv/ or patreon as a way to monetize WoW UI development
 
 
-# ***-- 5. -- outlook to future stuff and reminding this is Jar's stuff***
+# ***-- 5. -- More about Jar***
 
 - JarUI now lives on https://github.com/247jar/JarUI AND https://wago.io/p/Jar (ElvUI, WeakAuras, Plater, Edit Mode, OPie***
 
