@@ -30,7 +30,7 @@ Within Battle.net install World of Warcraft. This will result in creating an ins
 - Within Battle.net, click on "Play" having "World of Warcraft" selected. 
 
 
-### - 0.2 -- Ingame default menu options (interface settings, graphics settings, etc.)
+### - 0.2 -- Ingame default System settings (audio, graphics settings, network)
 At character select, we can already make first customizations - go to bottom-left Menu > System: 
 - Audio: Master Volume 10%, Music+Effects+Dialog 20%, Ambience 0%. Everything ticked, except Error Speech!
 - Graphics: Vertical Sync: Disabled, Low Latency Mode: Built-in, 
@@ -40,9 +40,16 @@ At character select, we can already make first customizations - go to bottom-lef
 - Network: Advanced Combat Logging: Tick / Enable!
 
 
+Now login with a character! This will create first files in your ``D:\Battlenet\World of Warcraft\_retail_\WTF``
+
+
+### - 0.3 -- Ingame default menu options (Gameplay settings)
+- Controls: Mouse: Mouse Look Speed: 1
+
+Now restart the game to make all the graphics settings changes go live. 
+
 --- ingame default menu options -> will live on a video. maybe youtube. maybe a twitch clip. (interface settings, graphics settings, Advanced Combat Logging enabled!)
 - TODO: but lives at https://www.twitch.tv/videos/1812917539?t=1h19m20s
-
 
 
 # ***-- 1. -- UI manipulation through local files***
