@@ -12,13 +12,19 @@
 
 # ***-- 0. -- The WoW install process***
 
-###
+### - 0.1 -- WoW installation
 
 to start off WoW install: 
 go to: https://www.blizzard.com/en-us/apps/battle.net/desktop
 
 within bnet install WoW Retail
 this will result in creating a install folder structure like
+
+
+### - 0.2 -- Ingame default menu options (interface settings, graphics settings, etc.)
+--- - ingame default menu options -> will live on a video. maybe youtube. maybe a twitch clip. (interface settings, graphics settings, Advanced Combat Logging enabled!)
+- TODO: but lives at https://www.twitch.tv/videos/1812917539?t=1h19m20s
+
 
 
 # ***-- 1. -- UI manipulation through local files***
