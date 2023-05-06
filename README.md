@@ -5,10 +5,8 @@
 - [***-- 1. -- UI manipulation through local files***](#---1----ui-manipulation-through-local-files)
 - [***-- 2. -- Managing ALL addons & simple update process***](#---2----managing-all-addons--simple-update-process)
 - [***-- 3. -- Getting & sharing addon profiles***](#---3----getting--sharing-addon-profiles)
-- [***-- 4. -- popular Disords for fancy WoW UIs***](#---4----popular-disords-for-fancy-wow-uis)
+- [***-- 4. -- Popular Disords for fancy WoW UIs***](#---4----popular-disords-for-fancy-wow-uis)
 - [***-- 5. -- More about Jar***](#---5----more-about-jar)
-
-***prepping a wow ui video in order to have a set process to set everything up on a new machine / new installation / for moving distros / other people to manage their whole ui instead of just pushing a WTF folder***
 
 
 # ***-- 0. -- The WoW install process***
@@ -184,7 +182,7 @@ https://wago.io/Wa4_j1SIX
 
 
 
-# ***-- 4. -- popular Disords for fancy WoW UIs***
+# ***-- 4. -- Popular Disords for fancy WoW UIs***
 naowh, atrocity, tukui, etc...........
 TODO collect all of them
 explain subbing to their https://www.twitch.tv/ or patreon as a way to monetize WoW UI development
