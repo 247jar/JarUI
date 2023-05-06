@@ -92,11 +92,12 @@ Texture replacement packs (BIG topic, lots of work here)
 
 ### - 2.1 ***I recommend WowUp.io with CurseForge to keep all addons updated with just 1 click - yes, including ElvUI: ``https://wowup.io/``***
 
--- inside WowUp.io app, look at top right hand corner, next to "Check Updates", click on the vertical menu dots and import this String: https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
-
+- Inside the WowUp.io app, look at top right hand corner, next to "Check Updates", click on the vertical menu dots and import this String: https://github.com/247jar/JarUI/blob/main/WowUpio_CF_string.txt
+-- This is install ALL addons (including ElvUI) that I use directly.
 
 
 ### - 2.2 ALL the addons that I currently use and are well maintained in Dragonflight:
+
 
 - `AdiBags` (is my bag addon of choice because ***C A T E G O R I E S***)
 -- Position & size: Scale 90%, Max bag height 42%
@@ -105,7 +106,7 @@ Texture replacement packs (BIG topic, lots of work here)
 - `Angry Keystones` (for displaying weekly affix schedule in the M+ panel)
 - `BetterCharacterPanel` (for character panel: to display Item Level *and* Enchant, Socket info per equipped item *and* on Inspect frame too!)
 -- TODO: not sure if I made adjustments or in `DejaCharacterStats` !!
-- ``BigWigs Bossmods`` (the boss timer addon with the fastest updates) + ``BigWigs_Voice`` + ``LittleWigs`` (***TODO: SHARE PROFILES***)
+- `BigWigs Bossmods` (the boss timer addon with the fastest updates) + ``BigWigs_Voice`` + ``LittleWigs`` (***TODO: SHARE PROFILES***)
 -- download https://github.com/247jar/JarUI/blob/main/BigWigs.lua into ```WTF\Account\%ACCOUNT_ID%\SavedVariables```
 -- TODO BEFORE RESET: test out making a new BigWigs profile on different Account.... to make sure we got ALL of the settings!!!!!!!!!
 - `BlizzMove` (to actually be allowed to move ***all Blizzard panels***, *yes even the Exit Game menu*)
@@ -167,12 +168,29 @@ Texture replacement packs (BIG topic, lots of work here)
 - `World Quests List` (THE best world quest addon, displays listing of ALL available WQs next to the world map)
 
 
+# - 2.3 quickly import global Account settings:
+- inside ``D:\Battlenet\World of Warcraft\_retail_\WTF\Account\%ACCOUNT_ID%\SavedVariables\`` are all the global config files, usually ``%ADDON_NAME%.lua``.
+
+These addons we will copy+paste straight from my git into their accountwide/global ``.lua`` config files:
+- `BigWigs Bossmods` - https://github.com/247jar/JarUI/blob/main/BigWigs.lua
+- `DejaCharacterStats` - https://github.com/247jar/JarUI/blob/main/DejaCharacterStats.lua
+- `OmniCD - Party Cooldown Tracker` - https://github.com/247jar/JarUI/blob/main/OmniCD.lua
+- `Talent Loadout Ex` - https://github.com/247jar/JarUI/blob/main/TalentLoadoutsEx.lua
+- `Talent Tree Tweaks | Dragonflight` - https://github.com/247jar/JarUI/blob/main/TalentTreeTweaks.lua
+- `WarpDeplete` - https://github.com/247jar/JarUI/blob/main/WarpDeplete.lua
+
+
+- `Details! Damage Meter` (***TODO: SHARE PROFILE***)
+-- 1. ingame in Details! "Options", go to "Profiles" and "Import Profile" by pasting this String: https://github.com/247jar/JarUI/blob/main/Details_profile.txt - save as "JarUI" and always swap to this profile on all new characters.
+
+- ``Method Raid Tools`` (for raid CD tracking ***TODO: SHARE PROFILE***)
+-- ingame in Method Raid Tools got to "Profiles" and "Import profile" by pasting this String: https://github.com/247jar/JarUI/blob/main/Method_Raid_Tools.txt - import with "Rewrite current" "Default" profile, so it applies to all characters now.
+
+
 ----
 # ***-- 3. -- Getting & sharing addon profiles***
 
 - https://wago.io/ biggest platform to share String / text based profiles for most popular addons (WeakAuras, Plater, ElvUI, Blizzard Edit Mode)
-
-----
 
 
 ### - 3.1 -- ***all the addon profiles*** TODO: complete list of addons and share their profiles on github
@@ -180,7 +198,6 @@ Texture replacement packs (BIG topic, lots of work here)
 share each individual addon profile.... THAT CANNOT BE SHARED THROUGH https://wago.io ON ***https://github.com/247jar/JarUI***
 
 - ``Edit Mode`` (Blizzard Default UI) - https://wago.io/36N3iSP-P
-
 
 
 ### - 3.2 -- ***Recommended WeakAuras***
@@ -206,8 +223,10 @@ https://wago.io/8Kge4dx6U TODO: find new CR BL tracker // + healer mana?
 https://wago.io/Wa4_j1SIX
 
 
-
 ### - 3.3 -- ***ElvUI wago.io collection***: https://wago.io/lw05cBLC4
+
+- we use ***Prat 3.0*** for chat customization.
+- we use ***Plater*** for nameplates.
 
 
 # JarUI ElvUI approach:
@@ -228,6 +247,8 @@ https://wago.io/Wa4_j1SIX
 - Chat bubble minimalist reskin: ``https://www.tukui.org/forum/viewtopic.php?f=11&t=30&start=50`` (use *No border with low background for chat bubble*)
 
 
+### - 3.4 -- ***Plater from wago.io***
+I recommend Jundies Plater profile: https://wago.io/ak3iS95aa
 
 
 # ***-- 4. -- Popular Discords for fancy WoW UIs***
