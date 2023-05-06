@@ -1,8 +1,12 @@
 ***This is [Jar](https://www.twitch.tv/tvJar)'s World of Warcraft User Interface repository.***
 
 ***Here, I provide EVERY SINGLE STEP that is needed from a fresh WoW install to having your whole UI set-up to a state that allows for heading over to actual gameplay. The main purpose is to enable EVERYONE to learn about most crucial aspect about WoW UI, including:***
-- [# 0 - The WoW installation process](#---0---)
-- 
+- [***-- 0. -- The WoW installation process***](#---0----the-wow-installation-process)
+- [***-- 1. -- UI manipulation through local files***]()
+- [***-- 2. -- managing ALL addons***]()
+- [***-- 3. -- getting & sharing UI's*** ]()
+- [***-- 4. -- popular DISCORDS for WoW UI***]()
+- [***-- 5. -- outlook to future stuff and reminding this is Jar's stuff***]()
 
 ***prepping a wow ui video in order to have a set process to set everything up on a new machine / new installation / for moving distros / other people to manage their whole ui instead of just pushing a WTF folder***
 
@@ -186,6 +190,8 @@ TODO collect all of them
 explain subbing to their https://www.twitch.tv/ or patreon as a way to monetize WoW UI development
 
 
-# ***-- 5. -- JarUI now lives on https://github.com/247jar/JarUI AND https://wago.io/p/Jar (ElvUI, WeakAuras, Plater, Edit Mode, OPie***
+# ***-- 5. -- outlook to future stuff and reminding this is Jar's stuff***
+
+- JarUI now lives on https://github.com/247jar/JarUI AND https://wago.io/p/Jar (ElvUI, WeakAuras, Plater, Edit Mode, OPie***
 
 
