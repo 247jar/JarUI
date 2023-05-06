@@ -1,12 +1,12 @@
 ***This is [Jar](https://www.twitch.tv/tvJar)'s World of Warcraft User Interface repository.***
 
 ***Here, I provide EVERY SINGLE STEP that is needed from a fresh WoW install to having your whole UI set-up to a state that allows for heading over to actual gameplay. The main purpose is to enable EVERYONE to learn about most crucial aspect about WoW UI, including:***
-- [***-- 0. -- The WoW installation process***](#---0----the-wow-installation-process)
-- [***-- 1. -- UI manipulation through local files***]()
-- [***-- 2. -- managing ALL addons***]()
-- [***-- 3. -- getting & sharing UI's*** ]()
-- [***-- 4. -- popular DISCORDS for WoW UI***]()
-- [***-- 5. -- outlook to future stuff and reminding this is Jar's stuff***]()
+- [***-- 0. -- The WoW install process***](#---0----the-wow-install-process)
+- [***-- 1. -- UI manipulation through local files***](#---1----ui-manipulation-through-local-files)
+- [***-- 2. -- Managing ALL addons & simple update process***](#---2----managing-all-addons--simple-update-process)
+- [***-- 3. -- Getting & sharing addon profiles***](#---3----getting--sharing-addon-profiles)
+- [***-- 4. -- popular Disords for fancy WoW UIs***](#---4----popular-disords-for-fancy-wow-uis)
+- [***-- 5. -- More about Jar***](#---5----more-about-jar)
 
 ***prepping a wow ui video in order to have a set process to set everything up on a new machine / new installation / for moving distros / other people to manage their whole ui instead of just pushing a WTF folder***
 
@@ -122,7 +122,7 @@ texture replacement packs (BIG topic, lots of work here)
 
 
 ----
-# ***-- 3. -- Getting & sharing addon profiles*** 
+# ***-- 3. -- Getting & sharing addon profiles***
 
 - https://wago.io/ biggest platform to share String / text based profiles for most popular addons (WeakAuras, Plater, ElvUI, Blizzard Edit Mode)
 
