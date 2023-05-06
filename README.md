@@ -53,25 +53,41 @@ Now restart the game to make all the graphics settings changes go live.
 
 
 # ***-- 1. -- UI manipulation through local files***
-### - 1.1 FONTS
+
+
+### - 1.1 Global Fonts
 TODO: share the default font replacements - note: I use Expressway
+- Inside ``D:\Battlenet\World of Warcraft\_retail_\Fonts`` we want to place ``.tff`` font files that will replace that named font globally inside WoW.
+- I like to use **Expressway** for my global font for everything. So get my Fonts folder zipped up at https://github.com/247jar/JarUI/blob/main/Fonts.zip
+- Unzip this ``Fonts.zip`` into ``D:\Battlenet\World of Warcraft\_retail_`` - this will then result in having ``D:\Battlenet\World of Warcraft\_retail_\Fonts``.
+
 
 ### - 1.2 INTERFACE folder - VERY PERFORMANT because it's only texture replacements!
 
 
-texture replacement packs (BIG topic, lots of work here)
-- https://www.tukui.org/addons.php?id=202 for login screen (i use Grey > Transparent)
-- https://www.tukui.org/forum/viewtopic.php?f=11&t=30&start=50 use *No border with low background* for chat bubble
-- icon replacement packs for 1px border squared icons everywhere https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition
+Texture replacement packs (BIG topic, lots of work here)
+- https://www.tukui.org/addons.php?id=202 for login screen & ingame Blizzard panels!!! (I use Grey > Transparent) 
+-- unzip this ``elvui_login_screen_and_character_select.zip`` in your Downloads folder for now. This will unpack folders, we use: ``Retail > Grey > Transparent``. Place ALL contents (folders) from here into ``D:\Battlenet\World of Warcraft\_retail_\Interface`` -- NOT into that ``AddOns`` folder!!!
+
+
+- https://www.tukui.org/forum/viewtopic.php?p=45464#p45464 use *No border with low background* for chat bubbles specifically. 
+-- unzip https://github.com/247jar/JarUI/blob/main/no%20border%20-%20low%20background.zip and copy these 2x .BLP files ``ChatBubble.BLP`` and ``ChatBubbleVertical.BLP`` into ``D:\Battlenet\World of Warcraft\_retail_\Interface\Tooltips``
+-- but now delete/move the existing chatbubble mods from ``D:\Battlenet\World of Warcraft\_retail_\Interface\Tooltips`` called ``ChatBubbleVertical.tga`` and ``ChatBubble.tga``
+
+
+- Default Icon replacement packs for 1px border squared icons everywhere (no more skinning!) 
+-- Go to: https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition
+-- On the right side, download latest Release ``.zip`` - around 1GB file size!
+-- extract that ``CleanIcons-MechagnomeEdition-10.1.0.49407-V4-1.zip`` and copy all contents into ``D:\Battlenet\World of Warcraft\_retail_\Interface``
 
 
 ### - 1.3 chat tabs / channels +++ Edit Mode scaling (maybe mention my UI Scale WA) note: start referring to JarUI
 -- TODO: FOR every character go to ```WTF\Account\%ACCOUNT_ID%\SavedVariables``` and PASTE INSIDE THE FILE, DO NOT REPLACE EXISTING FILE BECAUE OF HASHING from: https://github.com/247jar/JarUI/blob/main/chat-cache.txt
+-- for example: ``D:\Battlenet\World of Warcraft\_retail_\WTF\Account\137037127#1\Tarren Mill\Jarpd\chat-cache.txt``
 
 
 ----
 # ***-- 2. -- Managing ALL addons & simple update process***
-----
 
 
 ### - 2.1 ***I recommend WowUp.io with CurseForge to keep all addons updated with just 1 click - yes, including ElvUI: ``https://wowup.io/``***
