@@ -1,6 +1,7 @@
-***This is [Jar](https://www.twitch.tv/tvJar)'s World of Warcraft User Interface repository.***
+Welcome to Jar's World of Warcraft User Interface Repository!
 
-***Here, I provide EVERY SINGLE STEP that is needed from a fresh WoW install to having your whole UI set-up to a state that allows for heading over to actual gameplay. The main purpose is to enable EVERYONE to learn about most crucial aspect about WoW UI, including:***
+In this comprehensive guide, I will walk you through every step, from a fresh World of Warcraft installation to setting up your entire UI for optimal gameplay. Whether you're a new player or a seasoned veteran, this guide is designed to help you understand the most crucial aspects of WoW UI customization. Here's what we'll cover:
+
 - [***-- 0. -- The WoW install process***](#---0----the-wow-install-process)
 - [***-- 1. -- UI manipulation through local files***](#---1----ui-manipulation-through-local-files)
 - [***-- 2. -- Managing ALL addons & simple update process***](#---2----managing-all-addons--simple-update-process)
