@@ -52,7 +52,13 @@ Now restart the game to make all the graphics settings changes go live.
 - TODO: but lives at https://www.twitch.tv/videos/1812917539?t=1h19m20s
 
 
-# ***-- 1. -- UI manipulation through local files***
+# ***-- 1. -- UI Modification through Local Files: Unleashing Customization Potential***
+
+This section may seem a little intimidating, but bear with me—it holds the key to unlocking the true potential of UI customization without sacrificing performance. We'll delve into some technical aspects involving precise modifications in the local folder structure, but trust me, the rewards are worth it.
+
+Why is this section crucial, you might ask? Well, by making careful adjustments to your local files, you'll be able to achieve UI customizations that deliver unparalleled value. Unlike relying solely on ElvUI, which often skins numerous textures in the 3D engine, resulting in a performance penalty, our approach bypasses this drawback entirely.
+
+Yes, I understand that tinkering with local files might not sound like the most thrilling topic, but remember, it's precisely here where we uncover the hidden gems of UI customization. So, let's dive in and discover how to maximize your UI's potential while maintaining optimal performance.
 
 
 ### - 1.1 Global Fonts
